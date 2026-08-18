@@ -9,6 +9,28 @@ Repositório de acompanhamento do ciclo de treino de maratona, com análises di�
 - **Data:** 20 de setembro de 2026
 - **Meta de tempo:** abaixo de 3h30min (sub-3:30)
 
+## Zonas de frequência cardíaca (corrida)
+
+Baseadas no teste cardiopulmonar em esteira (Fleury, 16/12/2025 — 43 anos, 84,0 kg na época). O teste identificou dois limiares fisiológicos, que são a referência mais confiável para zonas de treino (mais precisos que fórmulas por idade):
+
+- **LAV / 1º limiar (aeróbico):** 144 bpm a 10,0 km/h (VO2 29,7 ml/kg/min, 68% do VO2 pico)
+- **PCR / 2º limiar (anaeróbico):** 166 bpm a 14,0 km/h (VO2 36,4 ml/kg/min, 84% do VO2 pico)
+- **FC máxima medida no teste:** 184 bpm (último estágio, 16 km/h + 2,5% aclive; RER 1,12 e queda de SpO2 confirmam esforço próximo do máximo, embora o VO2 medido — 43,5 ml/kg/min — tenha sido classificado como "pico", não "máximo", por não fechar todos os critérios). A fórmula por idade (220-43=177 bpm) usada como referência prévia do exame **subestimou** a FC real atingida — não usar fórmula por idade para essas zonas.
+
+| Zona | FC (bpm) | % FC máx (184) | Ritmo equivalente* | Uso |
+|---|---|---|---|---|
+| Z1 — Recuperação ativa | ≤ 137 | ≤ 74% | mais lento que 6:40/km | trote muito leve, dia pós-longão, aquecimento/volta à calma |
+| Z2 — Extensivo (base aeróbica) | 138–147 | 75–80% | 6:34–5:35/km | rodagens longas, a maior parte do volume semanal, ritmo "de conversa" |
+| Z3 — Intensivo (moderado/maratona) | 148–157 | 80–85% | 5:27–4:44/km | ritmo de maratona/tempo run — **a meta sub-3h30 (≈4:59/km) cai bem no meio desta zona (~151 bpm)** |
+| Z4 — Limiar (lactato) | 158–166 | 86–90% | 4:42–4:17/km | treinos de limiar, ritmo de provas de 10-21 km |
+| Z5 — Capacidade de O2 (VO2máx/anaeróbico) | ≥ 167 | ≥ 91% | mais rápido que 4:14/km | intervalados curtos, ritmo de 5 km e mais rápido |
+
+*Ritmo estimado por interpolação da curva velocidade×FC do próprio teste (esteira, condições controladas); ao ar livre a mesma FC costuma exigir ritmo um pouco mais lento (vento, piso, calor).
+
+Essas faixas já são muito próximas do que está configurado no Tredict (`running.heartrate`, revisão de 17/08/2026: Z1 ≤137, Z2 138-147, Z3 148-157, Z4 158-167, Z5 ≥168) — a diferença é de 1 bpm no corte Z4/Z5, dentro da margem de erro do teste. Não é necessário alterar a configuração do Tredict.
+
+**Ressalva:** o exame tem ~8 meses (dez/2025); o ciclo de treino desde então (volume alto, longões evoluindo, peso caindo de 84,0 para 82,1 kg) sugere que os limiares atuais podem estar iguais ou levemente melhores. Vale considerar um reteste ou um teste de campo (ex.: 20-30 min em ritmo forte sustentável) mais perto da prova para confirmar/ajustar antes do taper.
+
 ## Estrutura
 
 - `analises-diarias/AAAA-MM-DD.md` — análise diária do estado de recuperação (sono, HRV, FC de repouso, carga de treino) cruzado com o treino planejado/executado do dia, com recomendação para o treino.
