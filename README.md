@@ -31,6 +31,43 @@ Essas faixas já são muito próximas do que está configurado no Tredict (`runn
 
 **Ressalva:** o exame tem ~8 meses (dez/2025); o ciclo de treino desde então (volume alto, longões evoluindo, peso caindo de 84,0 para 82,1 kg) sugere que os limiares atuais podem estar iguais ou levemente melhores. Vale considerar um reteste ou um teste de campo (ex.: 20-30 min em ritmo forte sustentável) mais perto da prova para confirmar/ajustar antes do taper.
 
+## Estratégia de nutrição e hidratação (corrida)
+
+Definida em 22/09/2026, a partir da análise detalhada da 8ª maratona (Buenos Aires, 20/09/2026): a prova teve pacing quase perfeito do km 1 ao 35 (variação de 3s/km), mas sofreu uma crise de depleção de glicogênio entre os km 36-41 (queda simultânea de ritmo, FC e cadência — ver `analises-diarias/2026-09-20.md`), com drift cardíaco alto (-11,2%) e largada em 88% de umidade relativa. A estratégia de nutrição usada até então (25 g de carboidrato a cada 5 km ≈ 62 g/h de fonte única) ficou no piso do recomendado para uma prova de 3h30 corrida majoritariamente em Z4/Z5.
+
+### Carboidrato
+
+- **Meta nova: 80-90 g/h**, usando gel de **fonte dupla** (glicose/maltodextrina + frutose, proporção ~2:1 ou 1:0,8) em vez de fonte única — eleva o teto de absorção intestinal (~60 g/h para fonte única) e reduz desconforto gástrico em doses altas.
+- **Duas formas de chegar lá** (testar ambas em treino antes de decidir qual fica):
+
+  | Opção | Como | Rate resultante |
+  |---|---|---|
+  | A — trocar o produto, manter o hábito | Gel duplo-carbo de ~35 g a cada 5 km (mesma cadência atual) | ~87 g/h |
+  | B — manter o gel, encurtar o intervalo | Gel de 25-30 g a cada ~20 min (~4 km no ritmo-alvo) | ~80-90 g/h |
+
+- **Dose extra "seguro" pelo km 27-30**: como a crise apareceu no km 36-41, adicionar uma dose fora do cronograma fixo nesse trecho, antes de qualquer sinal de fadiga — o carboidrato leva 10-15 min para virar energia disponível, então reagir no km 35 já é tarde.
+- **Nunca estrear em prova.** Qualquer mudança de produto/rate precisa ser validada nos longões do próximo ciclo (ver protocolo de teste abaixo), subindo gradualmente (62→75→85 g/h) até confirmar tolerância gástrica no ritmo real de prova.
+
+### Água
+
+- **Meta geral: 500-750 ml/h** (porte de 82-83 kg, condições amenas mas úmidas tipo Buenos Aires) — na prática, ~150-200 ml a cada 15-20 min, alinhado aos postos de hidratação.
+- **Sempre junto com o gel**: 100-150 ml de água em goles (não um copo inteiro de uma vez) a cada gel, para diluir e acelerar o esvaziamento gástrico — água insuficiente atrasa a absorção do carboidrato exatamente quando mais se precisa dele.
+- Se houver isotônico no percurso, contar o carboidrato dele na meta de g/h para não estourar a dose planejada.
+- Não exceder a reposição de ~70-80% da perda de suor estimada — excesso de água sem sódio dilui o sódio do sangue.
+- **Eletrólitos**: 400-700 mg de sódio/hora (tabletes ou isotônico com sódio) em provas quentes/úmidas — não estava sendo monitorado até aqui, e depleção de glicogênio + sódio baixo é gatilho clássico de cãibra no fim de maratona.
+
+### Protocolo de teste de taxa de suor (pendente — a rodar quando os longões normais retomarem)
+
+Os próximos ~21 dias são de recuperação pós-maratona (sem longões). Assim que o volume normal de treino for retomado, rodar este teste para substituir a estimativa genérica de água por um número individualizado:
+
+1. Pesar-se sem roupa (ou com roupa seca padronizada) imediatamente antes de um longão controlado de 60-90 min, em ritmo de treino habitual.
+2. Anotar todo o volume de líquido ingerido durante o treino (ml).
+3. Pesar-se novamente ao final, nas mesmas condições (roupa seca, sem ter urinado no meio sem registrar).
+4. Taxa de suor (l/h) = [(peso antes − peso depois) + líquido ingerido (kg≈l) − urina, se houver] ÷ duração (h).
+5. Repetir em pelo menos 2 condições de temperatura/umidade diferentes, já que a taxa varia com o clima — usar a leitura mais próxima das condições esperadas na próxima maratona-alvo para calibrar a meta de ml/h.
+
+Registrar o resultado como atualização desta seção quando o teste for feito.
+
 ## Estrutura
 
 - `analises-diarias/AAAA-MM-DD.md` — análise diária do estado de recuperação (sono, HRV, FC de repouso, carga de treino) cruzado com o treino planejado/executado do dia, com recomendação para o treino.
