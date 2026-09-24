@@ -56,6 +56,24 @@ Definida em 22/09/2026, a partir da análise detalhada da 8ª maratona (Buenos A
 - Não exceder a reposição de ~70-80% da perda de suor estimada — excesso de água sem sódio dilui o sódio do sangue.
 - **Eletrólitos**: 400-700 mg de sódio/hora (tabletes ou isotônico com sódio) em provas quentes/úmidas — não estava sendo monitorado até aqui, e depleção de glicogênio + sódio baixo é gatilho clássico de cãibra no fim de maratona.
 
+### Cafeína
+
+Definida em 24/09/2026, com base no posicionamento conjunto ACSM/Dietitians of Canada/Academy of Nutrition and Dietetics, no IOC Consensus Statement on Sports Nutrition e na posição da ISSN sobre cafeína e performance — as referências oficiais mais robustas sobre o tema.
+
+- **Faixa ergogênica com evidência:** 3-6 mg/kg de peso corporal no total da prova. Doses acima de 6 mg/kg não mostram benefício adicional e aumentam o risco de efeitos colaterais (taquicardia, ansiedade, desconforto gastrointestinal, tremor). Com o peso mais recente registrado no Tredict (~83 kg), isso equivale a **≈250-500 mg de cafeína no total**, distribuídos ao longo da estratégia — não tudo de uma vez.
+- **Dose de ativação pré-prova:** ~150-250 mg (café, cápsula ou 1 gel cafeinado) 45-60 min antes da largada.
+- **Doses de manutenção durante a prova:** gel cafeinado (tipicamente 25-75 mg de cafeína por unidade, varia por marca) em 2-3 pontos específicos — não em todo gel. Sugestão: perto do km 15, km 25 e km 32, um pouco antes da janela onde ocorreu a crise de glicogênio no km 36-41 da Buenos Aires (a cafeína tem bom respaldo para sustentar performance justamente na fase final de fadiga).
+- **Não usar cafeína no primeiro gel logo após a largada** — a adrenalina do início já eleva FC/ativação; empilhar cafeína ali pode gerar taquicardia/ansiedade desnecessária. Introduzir a partir de ~60-90 min de prova.
+- **Somar tudo e não ultrapassar ~6 mg/kg (~500 mg) no total da prova**, para ficar dentro da faixa com evidência de benefício sem aumentar efeitos colaterais.
+
+**Ressalvas médicas:**
+- Sensibilidade à cafeína varia por indivíduo (componente genético, metabolismo via CYP1A2) — testar dose e timing em treino antes de aplicar em prova, nunca estrear no dia da corrida.
+- Efeito diurético é mínimo em quem já é consumidor habitual de cafeína, não deve alterar a meta de hidratação já definida acima.
+- Sinais de palpitação, refluxo/desconforto gástrico ou ansiedade em treino com cafeína indicam ficar na ponta mais baixa da faixa (3 mg/kg) ou usar só via gel, sem dose pré-prova isolada.
+- Sem contraindicação cardíaca identificada no teste de esteira (Fleury, 16/12/2025), mas isso não substitui avaliação de cardiologista/nutricionista esportivo que acompanhe o atleta pessoalmente, especialmente havendo histórico de arritmia.
+
+**Pendente:** testar dose e timing de cafeína (pré-prova + gel cafeinado nos pontos sugeridos) em pelo menos 1-2 longões do próximo ciclo, junto com o teste do protocolo de carboidrato, antes de aplicar na próxima maratona-alvo.
+
 ### Protocolo de teste de taxa de suor (pendente — a rodar quando os longões normais retomarem)
 
 Os próximos ~21 dias são de recuperação pós-maratona (sem longões). Assim que o volume normal de treino for retomado, rodar este teste para substituir a estimativa genérica de água por um número individualizado:
