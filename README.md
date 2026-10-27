@@ -89,6 +89,7 @@ Registrar o resultado como atualização desta seção quando o teste for feito.
 ## Estrutura
 
 - `analises-diarias/AAAA-MM-DD.md` — análise diária do estado de recuperação (sono, HRV, FC de repouso, carga de treino) cruzado com o treino planejado/executado do dia, com recomendação para o treino.
+- `nutricao-prova.md` — cronograma concreto de géis Z2 (carboidrato/cafeína/sódio) para o dia de prova, derivado das metas desta seção.
 
 ## Metodologia da análise diária
 
