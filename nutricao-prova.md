@@ -69,44 +69,64 @@ Com a dose pré-prova opcional (Gel A), some +25 g de carboidrato e +200 mg de s
 
 A decisão de usar gel ou não — e quanto — depende muito mais da **duração** do esforço do que da distância em si: abaixo de ~60-75 min, a literatura não mostra benefício relevante de carboidrato exógeno (os estoques de glicogênio bastam), enquanto a cafeína segue tendo respaldo mesmo em esforços curtos e intensos. Por isso os planos abaixo ficam mais simples conforme a prova encurta.
 
-**Sobre os paces usados:** os registros de 10K/15K no Tredict (a série recorrente "José Bonifácio - Corrida") são **treinos de rotina** em ritmo moderado (5:00-5:30/km, FC muitas vezes baixa para o esforço) — não são provas de fato, então não servem como referência de ritmo de prova. Já a meia maratona tem uma prova real e recente: **São Paulo, 26/07/2026 — 1h39min32s, 21,27 km (GPS), pace médio 4:41/km, FC média 163 bpm.** Os planos de 10K e 15K abaixo usam esse resultado real como âncora, extrapolado pela fórmula de Riegel (T2 = T1 × (D2/D1)^1,06) — são **estimativas**, não paces medidos; ajuste os tempos quando houver um resultado real dessas distâncias.
+**Sobre os paces usados (recalibrado em 15/11/2026):** os registros de 10K/15K no Tredict da série "José Bonifácio - Corrida" são **treinos de rotina** e não servem como referência de ritmo de prova. Há agora duas provas reais como âncora:
 
-### 21K / Meia Maratona (referência real: 1h39min32s, pace ~4:41/km)
+- **10K, Santander Track&Field Run Series, São José do Rio Preto, 15/11/2026: 46:01** em ~10,07 km (pace real ~4:34/km; FC média 168 bpm), em percurso ondulado (141 m de subida), 23°C e 78% de umidade, com split negativo. Detalhes em `provas/2026-11-15-10k-rio-preto.md`.
+- **21K, São Paulo, 26/07/2026: 1h39min32s**, 21,27 km (GPS), pace médio 4:41/km, FC média 163 bpm.
 
-Duração cruza claramente o limiar de ~60-75 min em que o carboidrato exógeno ajuda — mas, por ser um esforço mais curto e mais intenso (limiar/anaeróbico) que a maratona, a meta de carboidrato aqui é mais modesta (não há 3h30 de depleção de glicogênio pela frente) e a tolerância gástrica em alta intensidade é menor.
+As duas provas são coerentes entre si: pela fórmula de Riegel (T2 = T1 × (D2/D1)^1,06), o 10K projeta a meia em ~1h40:47. Os tempos do 15K abaixo vêm da projeção a partir do 10K real. Num percurso plano e mais fresco, conte com algo um pouco mais rápido.
 
-| T (min) | Km aprox. | Gel | Carbo | Sódio | Cafeína | Racional |
-|---|---|---|---|---|---|---|
-| -10 (pré-prova) | — | **C** | 25 g | 100 mg | 100 mg (1ª) | Cafeína desde já — o efeito dura 3-4h, cobrindo toda a prova; carbo pequeno não sobrecarrega o estômago na largada |
-| 35-40 | ~8-9 | **A** | 25 g | 200 mg | — | Único reforço de carboidrato "neutro" — sustenta a glicemia na fase de limiar sem somar mais cafeína ainda |
-| 65-70 | ~15-16 | **F** | 40 g | 100 mg | 100 mg (2ª) | 2ª dose de cafeína para os km finais + dose maior de carbo, no trecho onde o ritmo de limiar mais pesa |
+**Peso de referência para as doses de cafeína:** ~81 kg (80,7 kg em 13/11/2026). Por isso 100 mg ≈ 1,2 mg/kg e 200 mg ≈ 2,5 mg/kg.
 
-**Totais durante a prova (sem contar o gel pré-prova):** 65 g de carboidrato em ~1h40 (~39 g/h, deliberadamente abaixo da meta de maratona — adequado à intensidade mais alta e à menor duração) · 400 mg de sódio (~218 mg/h, mais baixo que na maratona pois o tempo total de suor acumulado é menor) · cafeína total 200 mg (pré-prova + T65) ≈ 2,4 mg/kg para 83 kg.
+**Protocolo pré-prova validado em prova (10K de 15/11/2026):** gel cafeinado **45-60 min antes da largada**, com 150-200 ml de água, depois de um café da manhã ~2h30-3h antes (~1 g/kg de carboidrato, pouca fibra/gordura, 400-550 ml de água). Foi bem tolerado em intensidade de limiar, sem desconforto gástrico, e os km finais foram os mais rápidos da prova. Esse passa a ser o horário padrão do gel pré-prova em **todas** as distâncias curtas. A versão anterior deste documento, para 15K/21K, previa o gel a -10 min, horário nunca testado.
 
-> Dia quente/úmido: troque o Gel F do T65-70 pelo **Gel E** (40 g carbo / 300 mg sódio, sem cafeína) — prioriza reposição de sódio sobre uma 2ª dose de cafeína, já que a dose pré-prova (100 mg) normalmente já cobre bem um esforço de ~1h40.
+**Regra de escolha do gel pré-prova:** **Gel B** (100 mg cafeína + 200 mg sódio + taurina) se a previsão para a largada for ≥ 22°C ou de umidade alta; **Gel C** (100 mg cafeína + 100 mg sódio) em dia ameno.
 
-### 15K (estimativa: ~1h09min21s, pace ~4:37/km)
+### 21K / Meia Maratona (referência real: 1h39min32s, ~4:41/km; projeção pelo 10K: ~1h40:47)
 
-Duração limítrofe — já passou da marca de 60 min, mas ainda é curta o suficiente para precisar de pouco.
+A duração passa com folga do limiar de ~60-75 min a partir do qual o carboidrato exógeno ajuda. Por outro lado, é um esforço mais curto e mais intenso que a maratona: a meta de carboidrato é mais modesta e a tolerância gástrica em alta intensidade é menor.
 
 | T (min) | Km aprox. | Gel | Carbo | Sódio | Cafeína | Racional |
 |---|---|---|---|---|---|---|
-| -10 (pré-prova) | — | **C** | 25 g | 100 mg | 100 mg | Mesma lógica do 21K — cafeína cobre toda a prova, carbo pequeno de apoio |
-| ~30-33 | ~7-8 | **A** | 25 g | 200 mg | — | Único gel em prova — reforço de glicemia e sódio para o terço final, sem precisar de mais cafeína |
+| -45 a -60 (pré-prova) | — | **B** (quente) / **C** (ameno) | 25 g | 200 / 100 mg | 100 mg (1ª) | Mesmo protocolo validado no 10K. O pico de cafeína coincide com a largada e o efeito cobre a prova toda |
+| 35-40 | ~8 | **A** | 25 g | 200 mg | — | Reforço de carboidrato "neutro", que sustenta a glicemia na fase de limiar. Tomar junto com um posto de água |
+| 65-70 | ~14-15 | **F** | 40 g | 100 mg | 100 mg (2ª) | 2ª dose de cafeína para os km finais e dose maior de carbo, no trecho em que o ritmo de limiar mais pesa |
 
-**Totais durante a prova:** 25 g de carboidrato (~22 g/h — baixo de propósito, mais prevenção de "baque" de glicemia do que necessidade real de glicogênio) · 200 mg de sódio · cafeína só a dose pré-prova (100 mg, ~1,2 mg/kg).
+**Totais durante a prova (sem o gel pré-prova):** 65 g de carboidrato em ~1h40 (~39 g/h) · 300 mg de sódio · cafeína total de 200 mg, somando pré-prova e T65 (≈ 2,5 mg/kg).
 
-### 10K (estimativa: ~45min06s, pace ~4:31/km)
+**Hidratação:** 100-150 ml de água em goles em postos alternados (~a cada 5 km), sempre junto com os géis do T35 e do T65. Em dia quente, molhe nuca e antebraços em todos os postos.
 
-Abaixo de 60 min — sem necessidade fisiológica de carboidrato durante a prova.
+> Dia quente/úmido: use o Gel B no pré-prova e troque o Gel F do T65-70 pelo **Gel E** (40 g carbo / 300 mg sódio, sem cafeína). Isso prioriza a reposição de sódio sobre uma 2ª dose de cafeína, e o total de cafeína fica em 100 mg.
+
+> Pacing: no 10K de 15/11 o 1º km saiu 16 s mais rápido que o plano, em descida. Na meia, segure o 1º km a no máximo ~5 s/km abaixo do plano.
+
+### 15K (projeção pelo 10K real: ~1h10:12, ~4:41/km)
+
+Duração limítrofe: passa da marca de 60 min, mas é curta o suficiente para precisar de pouco.
 
 | T (min) | Km aprox. | Gel | Carbo | Sódio | Cafeína | Racional |
 |---|---|---|---|---|---|---|
-| -45 a -60 (pré-prova) | — | **C** | 25 g | 100 mg | 100 mg | Única intervenção necessária — cafeína é a única coisa com respaldo de benefício num esforço desta duração; sem gel durante a prova |
+| -45 a -60 (pré-prova) | — | **B** (quente) / **C** (ameno) | 25 g | 200 / 100 mg | 100 mg | Protocolo validado no 10K. A cafeína cobre toda a prova |
+| ~30-35 | ~7 | **A** | 25 g | 200 mg | — | Único gel durante a prova: reforço de glicemia e sódio para a metade final, sem mais cafeína. Tomar junto com um posto de água, de preferência num trecho plano ou em descida |
 
-**Nada durante a prova.** Hidratação: só sorver água se houver posto e o dia estiver quente — não é determinante no resultado dado o tempo curto.
+**Totais durante a prova:** 25 g de carboidrato (~21 g/h, baixo de propósito: serve mais para evitar o "baque" de glicemia do que para repor glicogênio) · 200 mg de sódio · cafeína só a do pré-prova (100 mg ≈ 1,2 mg/kg).
+
+**Hidratação:** 2 a 3 goles em 2 postos (~km 5 e ~km 10). O do ~km 7 vai junto com o gel A. Em dia quente, molhe a nuca.
+
+### 10K (validado em prova: 46:01 em 15/11/2026, ~4:34/km)
+
+Abaixo de 60 min não há necessidade fisiológica de carboidrato durante a prova. **Protocolo executado e aprovado no 10K de Rio Preto:**
+
+| T (min) | Km aprox. | Gel | Carbo | Sódio | Cafeína | Racional |
+|---|---|---|---|---|---|---|
+| -45 a -60 (pré-prova) | — | **B** (quente, usado em 15/11) / **C** (ameno) | 25 g | 200 / 100 mg | 100 mg | Única intervenção necessária. Num esforço desta duração, só a cafeína tem benefício comprovado. Sem gel durante a prova |
+
+**Nada de gel durante a prova.** Hidratação: um único posto, de preferência perto da metade e antes de uma descida. 2 a 3 goles e o resto na nuca. No 10K de 15/11 foi a passagem pela praça (~km 5).
+
+> Opcional para testar **em treino** (nunca estrear em prova): a dose atual de cafeína (100 mg ≈ 1,2 mg/kg) está abaixo do piso da faixa com evidência (3 mg/kg ≈ 240 mg). Se o objetivo for extrair mais da cafeína no 2º 10K, teste antes, num treino de qualidade, o Gel B mais um café habitual (~80-100 mg), chegando a ~2,2-2,5 mg/kg. Só leve para a prova se não houver palpitação, ansiedade ou desconforto gástrico. Vale também a ressalva cardiológica do README.
 
 ## Pendente
 
-- Validar o cronograma de maratona em longões antes da aplicação na próxima maratona-alvo, especialmente a tolerância gástrica aos 3 géis cafeinados em sequência com ~20-40 min de intervalo.
-- Confirmar o pace real de 10K/15K na próxima vez que alguma dessas distâncias for corrida como prova de fato (não treino de rotina), e recalibrar os planos acima — hoje são estimativas por extrapolação.
+- Validar o cronograma de maratona em longões antes da Maratona de Porto Alegre (julho/2027), especialmente a tolerância gástrica aos 3 géis cafeinados em sequência com ~20-40 min de intervalo.
+- Validar no 15K a tolerância ao gel A durante a prova em ritmo de limiar (o 10K só validou o pré-prova).
+- Depois do 15K e do 21K preparatórios, recalibrar os paces de referência com os resultados reais e registrar cada prova em `provas/`.

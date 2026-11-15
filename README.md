@@ -4,10 +4,20 @@ Repositório de acompanhamento do ciclo de treino de maratona, com análises di�
 
 ## Prova-alvo
 
-- **Prova:** 8ª maratona
-- **Local:** Buenos Aires
-- **Data:** 20 de setembro de 2026
-- **Meta de tempo:** abaixo de 3h30min (sub-3:30)
+- **Prova:** 9ª maratona, Maratona de Porto Alegre
+- **Data:** julho de 2027
+- **Treinador:** Marcos Paulo (MPR Assessoria), que define a estratégia de pace das provas junto com o atleta
+
+**Provas preparatórias do ciclo** (cada uma registrada em `provas/`):
+
+| Data | Prova | Distância | Resultado |
+|---|---|---|---|
+| 15/11/2026 | Santander Track&Field Run Series, São José do Rio Preto | 10K | **46:01** (~4:34/km), ver `provas/2026-11-15-10k-rio-preto.md` |
+| a definir | 2º 10K | 10K | — |
+| a definir | 15K | 15K | — |
+| a definir | 21K | 21K | — |
+
+**Ciclo anterior:** 8ª maratona, Buenos Aires, 20/09/2026. Meta sub-3h30; resultado 3h30min58s (ver `analises-diarias/2026-09-20.md`).
 
 ## Zonas de frequência cardíaca (corrida)
 
@@ -86,9 +96,12 @@ Os próximos ~21 dias são de recuperação pós-maratona (sem longões). Assim 
 
 Registrar o resultado como atualização desta seção quando o teste for feito.
 
+**Atualização de 15/11/2026 (dados de prova):** a FC máxima observada em prova foi de 186 bpm (Buenos Aires, 20/09) e 185 bpm (10K de Rio Preto, 15/11), acima dos 184 do teste e dos 179 bpm cadastrados como hrMax no Tredict. Por isso o Tredict superestima o tempo em Z5. Recomenda-se atualizar a hrMax no Tredict para ~186 bpm. Já a FC média de 168 bpm sustentada por ~46 min no 10K confirma o LTHR de 168 bpm configurado no Tredict.
+
 ## Estrutura
 
 - `analises-diarias/AAAA-MM-DD.md` — análise diária do estado de recuperação (sono, HRV, FC de repouso, carga de treino) cruzado com o treino planejado/executado do dia, com recomendação para o treino.
+- `provas/AAAA-MM-DD-<distância>-<local>.md`: registro de cada prova, com percurso/altimetria, plano de pace e nutrição, resultado, splits e projeções.
 - `nutricao-prova.md` — cronograma concreto de géis Z2 (carboidrato/cafeína/sódio) para o dia de prova, derivado das metas desta seção.
 
 ## Metodologia da análise diária
