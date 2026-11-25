@@ -5,7 +5,7 @@ Repositório de acompanhamento do ciclo de treino de maratona, com análises di�
 ## Prova-alvo
 
 - **Prova:** 9ª maratona, Maratona de Porto Alegre
-- **Data:** julho de 2027
+- **Data:** 5 de junho de 2027
 - **Treinador:** Marcos Paulo (MPR Assessoria), que define a estratégia de pace das provas junto com o atleta
 
 **Provas preparatórias do ciclo** (cada uma registrada em `provas/`):

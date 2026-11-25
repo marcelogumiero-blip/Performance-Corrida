@@ -127,6 +127,7 @@ Abaixo de 60 min não há necessidade fisiológica de carboidrato durante a prov
 
 ## Pendente
 
-- Validar o cronograma de maratona em longões antes da Maratona de Porto Alegre (julho/2027), especialmente a tolerância gástrica aos 3 géis cafeinados em sequência com ~20-40 min de intervalo.
-- Validar no 15K a tolerância ao gel A durante a prova em ritmo de limiar (o 10K só validou o pré-prova).
+- Validar o cronograma de maratona em longões antes da Maratona de Porto Alegre (5/jun/2027), especialmente a tolerância gástrica aos 3 géis cafeinados em sequência com ~20-40 min de intervalo.
+- ~~Validar a tolerância a gel em ritmo de limiar~~ **Validado em 25/11/2026:** Gel D (40 g de carbo) tomado durante um tiro de 45 s em ritmo forte (4:32-4:48/km), no fim do bloco 2 de um fartlek, com água na recuperação seguinte. Treino quente, úmido e com garoa. Nenhum desconforto, e boa sensação no bloco 3 (6× 3 min a 4:19-4:31/km). Falta confirmar em prova, no 15K.
+- **Diretriz de longões (20/11/2026):** o atleta já tolera 80-100 g/h. Nos longões de 75 min ou mais, manter **80-90 g/h** para conservar a adaptação intestinal, sem cafeína. A progressão até a maratona passa a ser por intensidade (taxa cheia nos blocos em ritmo de prova), sódio (teste de taxa de suor) e cafeína (só em 2-3 simulações perto da prova).
 - Depois do 15K e do 21K preparatórios, recalibrar os paces de referência com os resultados reais e registrar cada prova em `provas/`.
